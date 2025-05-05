@@ -4,7 +4,7 @@ Welcome to the Ableton Live 12 repository! 🚀 This is your go-to source for ac
 ## 📁 Repository Overview  
 - Name: Ableton Live 12  
 - ags:bleton Live 12, Ableton Live 12 install guide, ableton live 12 for free, free ableton live 12, latest update ableton live 12, ableton live 11, ableton live, ableton music production, ableton live key generator, download ableton live 12, ableton download latest, music production software, ableton live tutorial, Logic Pro, Cubase, Pro Tools.  
-- Topics: Music-Production, Ableton-Live, audio-editing, free-software, live-performance, pro-version 
+- Topics: Music-Production Ableton-Live audio-editing free-software live-performance pro-version ableton-live music-creation cubase music-creator logic-pro ableton-live-free ableton-11 ableton-12 ableton-download ableton-live-12 music-creation-software ableton-tutorial ableton-live-tutorial ableton-12-free ableton-12-tutorial ableton-12-download ableton-live-12-suit-free ableton-live-free-12 ableton-live-12-setup ableton-live-music-production
 
 ## 🔗 Software Access  
 ### Download: [Ableton Live 12]()
